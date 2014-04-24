@@ -1,4 +1,4 @@
 test
 ====
 
-This is a test repository only containing README.md.
+This is a test repository containing just a README.md.
